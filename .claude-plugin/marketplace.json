@@ -1,0 +1,14 @@
+{
+  "name": "recued",
+  "description": "Recued for Claude Code: connect Claude Code to your own Recued server.",
+  "owner": {
+    "name": "Recued"
+  },
+  "plugins": [
+    {
+      "name": "recued",
+      "source": "./plugins/recued",
+      "description": "Connects Claude Code to your own Recued server over MCP, with the skill for working with its approvals."
+    }
+  ]
+}
